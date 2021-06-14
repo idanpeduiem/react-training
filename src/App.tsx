@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState} from "react";
 import './App.css';
 import {Card, Grid, makeStyles, Table, TableBody, TableCell, TableContainer, TableRow} from "@material-ui/core";
 import {FilterEnum} from './features/tableFilters/filters';
